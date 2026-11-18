@@ -1,1 +1,2 @@
 Learning Git remote synchronization
+Local change before rebase
